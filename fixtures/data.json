@@ -1,0 +1,73 @@
+[
+  {
+    "model":"api.m_religion",
+    "fields":{
+      "religion_name": "Islam"
+    }
+  },
+  {
+    "model":"api.m_religion",
+    "fields":{
+      "religion_name": "Budha"
+    }
+  },
+  {
+    "model":"api.m_religion",
+    "fields":{
+      "religion_name": "Hindu"
+    }
+  },
+  {
+    "model":"api.m_religion",
+    "fields":{
+      "religion_name": "Kristen Protestan"
+    }
+  },
+  {
+    "model":"api.m_religion",
+    "fields":{
+      "religion_name": "Kristen Katholik"
+    }
+  },
+  {
+    "model":"api.m_religion",
+    "fields":{
+      "religion_name": "Konghucu"
+    }
+  },
+
+  {
+    "model":"api.m_religion",
+    "fields":{
+      "religion_name": "Lainnya"
+    }
+  },
+
+  {
+    "model":"api.m_marital_status",
+    "fields":{
+      "marital_status_desc": "Single"
+    }
+  },
+
+  {
+    "model":"api.m_marital_status",
+    "fields":{
+      "marital_status_desc": "Widower"
+    }
+  },
+
+  {
+    "model":"api.m_marital_status",
+    "fields":{
+      "marital_status_desc": "Widow"
+    }
+  },
+
+  {
+    "model":"api.m_marital_status",
+    "fields":{
+      "marital_status_desc": "Married"
+    }
+  }
+]
